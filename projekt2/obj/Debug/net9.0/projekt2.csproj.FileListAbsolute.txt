@@ -1,0 +1,14 @@
+c:\4m_gr1PAD\projekt2\bin\Debug\net9.0\projekt2.exe
+c:\4m_gr1PAD\projekt2\bin\Debug\net9.0\projekt2.deps.json
+c:\4m_gr1PAD\projekt2\bin\Debug\net9.0\projekt2.runtimeconfig.json
+c:\4m_gr1PAD\projekt2\bin\Debug\net9.0\projekt2.dll
+c:\4m_gr1PAD\projekt2\bin\Debug\net9.0\projekt2.pdb
+c:\4m_gr1PAD\projekt2\obj\Debug\net9.0\projekt2.GeneratedMSBuildEditorConfig.editorconfig
+c:\4m_gr1PAD\projekt2\obj\Debug\net9.0\projekt2.AssemblyInfoInputs.cache
+c:\4m_gr1PAD\projekt2\obj\Debug\net9.0\projekt2.AssemblyInfo.cs
+c:\4m_gr1PAD\projekt2\obj\Debug\net9.0\projekt2.csproj.CoreCompileInputs.cache
+c:\4m_gr1PAD\projekt2\obj\Debug\net9.0\projekt2.dll
+c:\4m_gr1PAD\projekt2\obj\Debug\net9.0\refint\projekt2.dll
+c:\4m_gr1PAD\projekt2\obj\Debug\net9.0\projekt2.pdb
+c:\4m_gr1PAD\projekt2\obj\Debug\net9.0\projekt2.genruntimeconfig.cache
+c:\4m_gr1PAD\projekt2\obj\Debug\net9.0\ref\projekt2.dll
